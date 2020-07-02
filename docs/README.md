@@ -1,8 +1,18 @@
-# The Sims 4 ModManager
-
 [![Current version](https://img.shields.io/badge/Current%20version-0.1-green)](https://github.com/CrazyXacker/sims4modmanager/releases)
 
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+*TS4MM provides to you a wide variety of features:*
+* Easy mod (package, zip) installing with several clicks (Work in progress)
+* Ability to set mod info: Title, Cover, Description, Link, Category, Related mod link (Work in progress)
+* Easy to use library with installed mods
+* Search in library
+* Filters by category and category search
+* Easy and fast one-click mod enabling/disabling
+* Easy and fast mod deletion
+* Support of mod sites parsing and mod downloading (Work in progress)
+* Support of TSR (TheSimsResource) mod downloading (semi-automatic mode)
+* Listening Clipboard for supported links (only links)
+* Ability to parser and download Required mods. Example: recolor mod from TSR that requires external mesh to work
+* etc...
 
 ![Thumbnail of Cayman](thumbnail.png)
 
