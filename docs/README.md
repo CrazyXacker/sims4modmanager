@@ -40,9 +40,13 @@ App is very simple in use:
 3. Adding from file: **(Work in progress)**
 
 4. Adding by link:  
-*a.* Click **+ Add mod** and choose **Add from {site_name}**  
-*b.* Insert link to mod page into field and click **OK**. App will download mod with metadata OR open **WebView Package Downloader** where you may need hit **Download** button  
-*c.* After downloading, mod with info will appear in app **Library**  
+*a.* App is checking your Clipboard for supported links. If it will be found - you will get request for download.
+
+**OR**
+
+*b.* Click **+ Add mod** and choose **Add from {site_name}**  
+*c.* Insert link to mod page into field and click **OK**. App will download mod with metadata OR open **WebView Package Downloader** where you may need hit **Download** button  
+*d.* After downloading, mod with info will appear in app **Library**  
 *NOTE: Sometimes, app may request downloading additional mod that is required for normal mod work. You can decline this request but that's not recommended*
 
 **That's all!**
