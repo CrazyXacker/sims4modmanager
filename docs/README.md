@@ -16,8 +16,9 @@
 
 ![Thumbnail of app](images/app_thumbnail.png)
 
-[Download latest Release](https://github.com/CrazyXacker/sims4modmanager/releases)
+## Downloads
 
+[Download latest Release](https://github.com/CrazyXacker/sims4modmanager/releases)
 
 ## Usage
 
