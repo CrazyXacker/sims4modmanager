@@ -1,6 +1,6 @@
 [![Current version](https://img.shields.io/badge/Current%20version-0.1-green)](https://github.com/CrazyXacker/sims4modmanager/releases)
 
-*TS4MM provides to you a wide variety of features:*
+*S4MM provides to you a wide variety of features:*
 * Easy mod (package, zip) installing with several clicks (Work in progress)
 * Ability to set mod info: Title, Cover, Description, Link, Category, Related mod link (Work in progress)
 * Easy to use library with installed mods
@@ -22,7 +22,18 @@
 
 ## Usage
 
-To use the Cayman theme:
+App is very simple in use:
+1. At first start app will ask you to provide path to Sims 4 mods folder. It may be like this: **C:/Users/{user_name}/Electronic Arts/The Sims 4/Mods**. If path is correct, app will let you to proceed. *NOTE: App is using subfolder **Sims4MM** for installed mods. If app can't find this folder - you must provide valid path to Mods folder again.*
+
+2. After folder choosing you may start adding your first mod. There are severals way to do this: add mod from local file (package, zip) **(Work in progress)** or add mod by link from supported sites. *NOTE: as for version 0.1 app is supporting only TSR (TheSimsResource)*
+
+3.1. Adding from file: **(Work in progress)**
+
+3.2. Adding by link:
+a. Click **+ Add mod** and choose **Add from {site_name}**
+b. Insert link to mod page into field and click **OK**. App will download mod with metadata OR open **WebView Package Downloader** where you may need hit **Download** button
+c. After downloading, mod with info will appear in app **Library**. Sometimes, app may request 
+
 
 1. Add the following to your site's `_config.yml`:
 
