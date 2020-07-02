@@ -14,7 +14,10 @@
 * Ability to parser and download Required mods. Example: recolor mod from TSR that requires external mesh to work
 * etc...
 
-![Thumbnail of Cayman](thumbnail.png)
+![Thumbnail of app](images/app_thumbnail.png)
+
+[Download latest Release](https://github.com/CrazyXacker/sims4modmanager/releases)
+
 
 ## Usage
 
