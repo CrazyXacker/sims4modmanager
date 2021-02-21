@@ -12,7 +12,7 @@
 * Support of mod sites parsing and mod downloading (Work in progress)
 * Support of TSR (TheSimsResource) mod downloading (semi-automatic mode)
 * Listening Clipboard for supported links (only links)
-* Ability to parser and download Required mods. Example: recolor mod from TSR that requires external mesh to work
+* Ability to parse and download Required mods. Example: recolor mod from TSR that requires external mesh to work
 * etc...
 
 ![Thumbnail of app](docs/images/app_thumbnail.png)
