@@ -1,4 +1,4 @@
-[![Current version](https://img.shields.io/badge/Current%20version-0.1-green)](https://github.com/CrazyXacker/sims4modmanager/releases)
+[![Current version](https://img.shields.io/badge/Current%20version-0.5.1-green)](https://github.com/CrazyXacker/sims4modmanager/releases)
 
 *S4MM provides to you a wide variety of features:*
 * Easy mod (package, zip) installing with several clicks (Work in progress)
